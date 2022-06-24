@@ -1,0 +1,22 @@
+div.split3 div{
+ 
+        float:left;
+        width: 29%;
+        width: 33%;
+        width: 29%;
+        padding: 0 2%
+        
+    }
+
+    h1 {  font-size: 40px;  color:#14C38E; text-align: left; font-family: sans-serif, cursive; margin-top: 20px; margin-left: 40px;} 
+
+    p {text-align:center; color: white;}
+
+    a{text-align: center; text-decoration: underline;}
+    h2{text-align: center; color: rgb(1, 129, 44); }
+   
+    a:link { color: white; } a:visited { color: #ffffff; } a:hover { color: #3c9b44; } a:active { color: teal; } 
+div.bottoni a{
+    display:inline;  float: right;  margin-right: 40px; margin-top: 20px;  background 
+
+     }
